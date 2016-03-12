@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "git test", "git test\git test.csproj", "{5684DA8C-086E-4CF4-9C87-D15045A47FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5684DA8C-086E-4CF4-9C87-D15045A47FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5684DA8C-086E-4CF4-9C87-D15045A47FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5684DA8C-086E-4CF4-9C87-D15045A47FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5684DA8C-086E-4CF4-9C87-D15045A47FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
